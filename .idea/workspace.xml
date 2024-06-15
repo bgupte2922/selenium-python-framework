@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dda2695e-5028-44f5-8f26-7e1092dbd0a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/letskodeit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automation.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/basepage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/selenium_driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/webdriverfactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configfiles/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/courses/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/courses/register_courses_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/home/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/home/login_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/home/navigation_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Invalid enrollment verification.1718380692069.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Invalid enrollment verification.1718380895434.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Invalid enrollment verification.1718381079854.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Invalid enrollment verification.1718381197222.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Invalid enrollment verification.1718381702025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Invalid enrollment verification.1718382323752.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Invalid enrollment verification.1718391265308.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Invalid enrollment verification.1718391326896.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Invalid enrollment verification.1718395556009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Invalid enrollment verification.1718395620012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Invalid enrollment verification.1718395921238.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Invalid enrollment verification.1718395987775.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Invalid enrollment verification.1718398826538.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Invalid enrollment verification.1718398889778.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Invalid enrollment verification.1718401310968.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Invalid enrollment verification.1718401374507.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/courses/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/courses/register_courses_csv_data_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/courses/register_courses_multiple_dataset_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/courses/register_courses_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/home/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/home/login_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_suite_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/custom_logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/read_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/teststatus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/util.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2hhmHLhSRa3lGRBBObXjHVUum5x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests in login_tests.py.executor": "Run",
+    "Python.login_tests.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/gupte/workspace_python/letskodeit/pages/home",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gupte\workspace_python\letskodeit\pages\home" />
+      <recent name="C:\Users\gupte\workspace_python\letskodeit\tests\courses" />
+      <recent name="C:\Users\gupte\workspace_python\letskodeit\tests" />
+      <recent name="C:\Users\gupte\workspace_python\letskodeit\utilities" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="login_tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="letskodeit" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/home/login_tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.login_tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dda2695e-5028-44f5-8f26-7e1092dbd0a5" name="Changes" comment="" />
+      <created>1718054595696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718054595696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
